@@ -64,7 +64,7 @@ Ricardo Urdinola - ricurdinola@gmail.com - [Mis Repositorios](https://github.com
 
 <p align="right"><a href="#top">Ir al Inicio</a></p>
 
-## Agradacimientos
+## Agradecimientos
 Este repositorio es simplemente un template a fin de ejecutar el proyecto origen. 
 Agradecimientos especiales al autor del proyecto original, [NginxProxyManager](https://nginxproxymanager.com/).
 
